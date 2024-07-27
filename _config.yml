@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: Anthony Kigen
-theme: jeykll-theme-minimal
+theme: jekyll-theme-minimal
+
